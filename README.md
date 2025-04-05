@@ -4,7 +4,6 @@
 - 🎓 I'm currently studying **Systems Engineering**
 - 🧪 I have experience as a **QA Manual**, ensuring quality through structured testing
 - 🧑‍💻 I'm focused on **Backend Development** using **PHP (Laravel)**
-- 🛠️ Passionate about writing clean, scalable, and maintainable code
 - 💬 I enjoy learning about system design, APIs, and database optimization
 - 🔍 I'm always looking for opportunities to grow professionally and contribute to impactful projects
 
